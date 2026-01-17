@@ -1,6 +1,7 @@
 {
   "serverHost": "play.sigmapallukka.xyz",
   "serverPort": 20465,
-  "botUsername": "UTB",
+  "botEmail": "suntili@outlook.com",
+  "botUsername": "UBT",
   "botChunk": 1
 }
